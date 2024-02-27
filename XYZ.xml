@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="IMG_20230929_181653" size="4.000000 5.333333" />
+    <ImageTarget name="WebTech" size="4.000000 5.333333" />
+    <ImageTarget name="CTCI" size="4.000000 5.714286" />
+    <ImageTarget name="earr" size="4.000000 4.099279" />
+  </Tracking>
+</QCARConfig>

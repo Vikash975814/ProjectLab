@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="ArtificialIntelligence" size="4.000000 5.333333" />
+    <ImageTarget name="DataComm_Network" size="4.000000 3.000000" />
+    <ImageTarget name="SoftwareEngineering" size="4.000000 5.333333" />
+    <ImageTarget name="DataStructure" size="4.000000 5.277778" />
+    <ImageTarget name="CloudComputing_ShailendraSingh" size="4.000000 5.333333" />
+    <ImageTarget name="ANCI-C_7thEdition" size="4.000000 5.183562" />
+  </Tracking>
+</QCARConfig>
